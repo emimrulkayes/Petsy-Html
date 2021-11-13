@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "liveSassCompile.settings.formats": [
+        
+    
+    
+    
+
+
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/assets/css"
+        }
+    ],
+    "explorer.confirmDelete": false
+}
